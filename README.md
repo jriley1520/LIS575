@@ -1,4 +1,4 @@
-James Riley
-Jacob Fishman
-Ryan Rozanski
-Michelle Penn
+James Riley,
+Jacob Fishman,
+Michelle Penn,
+and Ryan Rozanski.
